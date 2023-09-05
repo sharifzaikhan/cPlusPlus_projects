@@ -1,4 +1,4 @@
-//how to create siomple BMI calculator in cPlusPlus
+how to create siomple BMI calculator in cPlusPlus
 // just create some two variables Heigth(h) and Weight(w), with float data types
 // Take them input from the user
 // put thse values in a fomrula which is : BMI = weight/height*height
