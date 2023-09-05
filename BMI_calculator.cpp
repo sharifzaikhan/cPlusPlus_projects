@@ -14,3 +14,4 @@ cout<<"Enter your Height in meter : "<<endl;
 cin>>h;
 float BMI = w/(pow(h,2));
 cout<<"Your BMI is " << BMI <<endl;
+}
